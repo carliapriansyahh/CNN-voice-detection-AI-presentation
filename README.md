@@ -1,2 +1,1 @@
-# AI-
-Presentation Slide Control Application with voice detection CNN Model
+AI SLIDE CONTROL FOR DISABILITIES
